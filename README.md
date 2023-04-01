@@ -1,4 +1,6 @@
-![repo-size](https://img.shields.io/github/repo-size/RandulaTharaka/Data-Structure-and-Algorithms)
+![repo-size](https://img.shields.io/github/repo-size/RandulaTharaka/Data-Structure-and-Algorithms) 
+![last-commit](https://img.shields.io/github/last-commit/RandulaTharaka/Data-Structure-and-Algorithms)
+![top-language](https://img.shields.io/github/languages/top/RandulaTharaka/Data-Structure-and-Algorithms)
 
 # Data-Structure-and-Algorithms
 
