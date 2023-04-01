@@ -1,5 +1,6 @@
-# Data-Structure-and-Algorithms
+![repo-size](https://img.shields.io/github/repo-size/RandulaTharaka/Data-Structure-and-Algorithms)
 
+# Data-Structure-and-Algorithms
 
 ## Overview
 This is a continuous project on the implementation of data structures and answers to some popular DSA quizzes. You can open this project using IntelliJ IDEA.
